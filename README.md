@@ -1,7 +1,7 @@
 ## Olá eu sou o Edivan, no meu github existe muitos projetos de estudo sobre tecnologias que gosto e tenho curiosidade de aprender!
 <div align="center">
   <a href="https://github.com/edivandecastro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edivandecastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edivandecastro&theme=shades-of-purple&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edivandecastro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
